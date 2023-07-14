@@ -6,5 +6,5 @@
 - npm run dev
 - copiar la url de "Local" y abrirla en el navegador
 
-## Abrir otra terminal y desde la ubicacion de "redux-example" se instalan las librerias a ser utilizadas con el siguiente comando:
+### Abrir otra terminal y desde la ubicacion de "redux-example" se instalan las librerias a ser utilizadas con el siguiente comando:
 - npm i @reduxjs/toolkit react-redux

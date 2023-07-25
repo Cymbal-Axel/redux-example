@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react'
 import { useDispatch } from 'react-redux'
 import { Header } from './components/Header'
+import { Email } from './components/Email'
 import { addUser } from './redux/userSlice'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
@@ -19,6 +20,7 @@ function App() {
   return (
   <div className="App">
     <Header />
+    <Email />
   </div>)
 }
 
